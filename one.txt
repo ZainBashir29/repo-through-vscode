@@ -1,3 +1,7 @@
 this is first file of directory three
 
 this is a line to test github linking
+
+this is another line to test github linking
+
+this is another line to test github linking
